@@ -1,6 +1,6 @@
 ---
 description: When debugging LaunchDarkly SDK or flag behavior
-globs:
+globs: 
 alwaysApply: false
 ---
 LaunchDarkly Debugging suggestions
