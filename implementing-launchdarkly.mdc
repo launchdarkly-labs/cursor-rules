@@ -1,6 +1,6 @@
 ---
-description: 
-globs: 
+description: When adding or configuring LaunchDarkly SDKs
+globs: []
 alwaysApply: false
 ---
 implementing-launchdarkly.mdc:

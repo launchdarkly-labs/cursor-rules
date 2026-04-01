@@ -1,6 +1,6 @@
 ---
-description: When I'm implementing a new feature
-globs: 
+description: When implementing features that evaluate LaunchDarkly flags
+globs: []
 alwaysApply: false
 ---
 Rule 1: LaunchDarkly Evaluation Must Be Centralized
