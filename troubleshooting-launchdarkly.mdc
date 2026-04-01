@@ -1,5 +1,5 @@
 ---
-description: When debugging LaunchDarkly
+description: When debugging LaunchDarkly SDK or flag behavior
 globs: 
 alwaysApply: false
 ---

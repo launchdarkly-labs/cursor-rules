@@ -1,5 +1,5 @@
 ---
-description: When I'm implementing a new feature
+description: When implementing features that evaluate LaunchDarkly flags
 globs: 
 alwaysApply: false
 ---
